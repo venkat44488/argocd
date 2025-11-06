@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/yourorg/myservice.git
+    repoURL: https://github.com/venkat44488/argocd.git
     targetRevision: main
     path: deploy/overlays/dev
   destination:
